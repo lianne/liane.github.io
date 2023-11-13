@@ -7,7 +7,21 @@ incremental : false
 highlighter : rouge
 permalink   : date
 markdown    : kramdown
-exclude	    : [rsync-site.sh, .git, .gitignore, Gemfile, Gemfile.lock, Makefile, README.markdown, batchputweb.sftp, log.sftp]
+exclude	    : 
+  - rsync-site.sh 
+  - .git
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - README.markdown 
+  - batchputweb.sftp
+  - log.sftp
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 host        : localhost
 port        : 4000
 encoding    : utf-8
