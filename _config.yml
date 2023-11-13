@@ -1,8 +1,10 @@
 ---
 source      : .
-destination : ../_site
+#destination : ../_site
 lsi         : false
-highlighter : pygments
+safe        : true
+incremental : false
+highlighter : rouge
 permalink   : date
 markdown    : kramdown
 exclude	    : [rsync-site.sh, .git, .gitignore, Gemfile, Gemfile.lock, Makefile, README.markdown, batchputweb.sftp, log.sftp]
@@ -10,9 +12,15 @@ host        : localhost
 port        : 4000
 encoding    : utf-8
 timezone    : Europe/Roma
-plugins     : ['jekyll/scholar']
+plugins: 
+  - jekyll-scholar
+  - jekyll-include-cache
+
 url         : https://lianne.github.io
 #urlbase     : /iannelli
+
+gist        : 
+  noscript  : false
 
 author:
     name    : Luigi Iannelli
@@ -31,6 +39,8 @@ author:
     Rgate   : http://www.researchgate.net/profile/Luigi_Iannelli
 
 kramdown:
+    math_engine: mathjax
+    syntax_highlighter: rouge
     use_divs: true
     use_tex: true
     png_engine : blahtex
