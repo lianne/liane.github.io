@@ -1,0 +1,66 @@
+---
+layout: name
+title: Sistemi Discreti 2019/2020
+section: Teaching
+---
+
+Sistemi Discreti
+====================
+
+Anno Accademico 2019/2020
+
+
+Informazioni generali
+----------------------
+
+Corso del I anno, I semestre, 9 CFU  
+Laurea Magistrale in Ingegneria Informatica 
+
+Il corso è presente su [Piazza](http://piazza.com/unisannio.it/fall2018/sd), una interessante piattaforma accessibile anche da [smartphones e tablets](https://piazza.com/product/mobile). 
+
+### **Orario lezioni**  
+Lunedì ore 12-14 aula G15  
+Mercoledì ore 9-11 aula D4   
+Venerdì ore 12-14 aula G13  
+
+### **Orario ricevimento**  
+Mercoledì ore 11-13 (studio [docente](mailto: luigi.iannelli@unisannio.it)) (prenotarsi via e-mail) 
+
+<!-- [Quaderno del corso](http://www.ing.unisannio.it/iannelli/_newsite/teaching/2014-CA/CA-2014-cpn) -->
+
+Contenuti del corso
+--------------
+
+- Cyber-physical systems: an overview. 
+- Modeling, design and analysis of CPSs. 
+- Data analysis: linear regression. 
+- Numerical simulation: continuous time, discrete time and hybrid systems.
+- Discrete systems.
+- Finite State Machines.
+- Timed Automata.
+- Composition of FSM.
+- Synchronous reactive models.
+- Synchronous dataflow models.
+- Discrete event systems.
+
+Libri
+------
+
+Libro di testo:  
+- Edward A. Lee and Sanjit A. Seshia, **"Introduction to Embedded Systems, A Cyber-Physical Systems Approach"**, Second Edition, [PDF available](http://LeeSeshia.org), ISBN 978-1-312-42740-2, 2015.
+
+
+Obiettivi del corso
+----------------
+
+Introdurre gli studenti ai cyber-physical systems (CPS) dando una panormamica della loro complessità e proponendo metodologie finalizzate ad affrontare la modellizzazione, il progetto e l'analisi di tale ampia classe di sistemi. Verranno presentati esempi applicativi e piattaforme software per la simulazione.
+
+Modalità di erogazione del corso
+-----------------
+
+Lezioni frontali e laboratorio (Matlab/Simulink)
+
+Modalità di valutazione
+-------------------
+
+Homeworks ed esame orale

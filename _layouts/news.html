@@ -1,0 +1,22 @@
+---
+layout: default
+top: Luigi Iannelli
+---
+
+<div id="header">
+	{% include nav-name.html %}
+</div>
+
+<div id="page">
+
+	<h1 class="emphnext">{{ page.title }}</h1>
+
+	{{ content }}
+	
+	 <address class="signature">
+    	<a class="author" href="{{ site.url }}">{{ site.author.name }}</a> 
+    	<span class="date">{{ page.date | date_to_long_string }}</span>
+  </address>
+  
+</div>
+

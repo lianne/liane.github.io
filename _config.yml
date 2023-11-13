@@ -1,0 +1,59 @@
+---
+source      : .
+destination : ../_site
+lsi         : false
+highlighter : pygments
+permalink   : date
+markdown    : kramdown
+exclude	    : [rsync-site.sh, .git, .gitignore, Gemfile, Gemfile.lock, Makefile, README.markdown, batchputweb.sftp, log.sftp]
+host        : localhost
+port        : 4000
+encoding    : utf-8
+timezone    : Europe/Roma
+plugins     : ['jekyll/scholar']
+url         : https://lianne.github.io
+#urlbase     : /iannelli
+
+author:
+    name    : Luigi Iannelli
+    email   : luigi.iannelli@unisannio.it
+    github  : lianne
+    twitter : controliannelli
+    twitid  : 469892210561802240
+    linkedin: http://it.linkedin.com/pub/luigi-iannelli/5/960/b23
+    orcid   : 0000-0003-2034-0005
+    orcidurl: http://www.orcid.org/
+    Scopus  : 6603316833
+    Scopusurl: http://www.scopus.com/authid/detail.url?authorId=
+    RIDurl  : http://www.researcherid.com/rid/
+    RID     : F-3225-2010
+    scholar : http://scholar.google.it/citations?user=168aorUAAAAJ&hl=it&oi=ao
+    Rgate   : http://www.researchgate.net/profile/Luigi_Iannelli
+
+kramdown:
+    use_divs: true
+    use_tex: true
+    png_engine : blahtex
+    png_dir    : /images/latex/
+    png_url    : /images/latex/
+
+scholar:
+  #style     : association-for-computing-machinery
+  style     : acm-siggraph
+  locale    : en
+
+  sort_by   : year
+  order     : descending
+  bibliography_list_tag : ul # ul to have unordered list
+
+  source    : ./_bibliography
+  bibliography_template: bib
+
+  replace_strings : true
+  join_strings    : true
+
+  details_dir     : _bibliography
+  details_layout  : bibliography.html
+  details_link    : More
+
+#modificare jekyll-scholar bibliography.rb  

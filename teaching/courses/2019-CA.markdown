@@ -1,0 +1,44 @@
+---
+layout: name
+title: Controlli Automatici 2019/2020
+section: Teaching
+---
+
+Controlli Automatici
+====================
+
+Anno Accademico 2019/2020
+
+
+Informazioni generali
+----------------------
+
+Corso del II anno, II semestre, 6 CFU  
+Laurea in Ingegneria Informatica e Laurea in Ingegneria Elettronica per l’Automazione e le Telecomunicazioni (corso mutuato) 
+
+Il corso è presente su [Piazza](http://piazza.com/unisannio.it/spring2020/ca), una interessante piattaforma accessibile anche da [smartphones e tablets](https://piazza.com/product/mobile). 
+
+### **Orario lezioni**  
+Giovedì ore 9-11 aula G12  
+Venerdì ore 9-11 aula O4 
+
+### **Orario ricevimento**  
+Giovedì ore 11-13 (studio [docente](mailto: luigi.iannelli@unisannio.it)) (prenotarsi via e-mail) 
+
+## **EMERGENZA COVID 2019**{: style="color: red"}
+
+A causa dell'attuale situazione di emergenza, le lezioni del corso si terranno mediangte piattaforma [Webex](http://webex.com). In ogni caso, è necessario seguire le seguenti istruzioni:
+
+1) registrarsi, **mediante indirizzo e-mail UNISANNIO**, alla classe virtuale presente su [Piazza](http://www.piazza.com) selezionando "Università del Sannio" come SCHOOL, “Spring 2020” come TERM, e selezionando il corso Controlli Automatici con codice CA (occorre cercare il corso CA: Controlli Automatici). In maniera *alternativa* e più immediata, si può cliccare direttamente a questo [link](http://piazza.com/unisannio.it/spring2020/ca). Qualora si riscontrassero problemi durante la procedura di registrazione, occorre segnalarlo in maniera esplicita nell’ultimo campo del modulo di iscrizione di cui al punto successivo, che dovrà comunque essere necessariamente riempito anche se la registrazione a Piazza andasse a buon fine;
+
+2) riempire il seguente modulo
+ 
+[https://forms.gle/da6ehxCGGkyANtyX8](https://forms.gle/da6ehxCGGkyANtyX8)
+
+inserendo al primo campo un indirizzo e-mail personale valido (suggerirei quello al quale si preferisce ricevere comunicazioni, eventualmente anche quello istituzionale UNISANNIO) e riempiendo tutti i successivi campi. Si evidenzia che solo l’ultimo campo è opzionale e può essere utilizzato *anche* (ma non solo) per evidenziare problemi di registrazione a Piazza e/o problemi riscontrati nella corretta ricezione di messaggi sulla casella di posta istituzionale (@studenti.unisannio.it).
+
+Effettuate entrambe queste azioni, sarò in grado di inviare un invito per ogni videolezione del corso (la prima si terrà il giorno 12 marzo 2020, alle ore 9.00) tramite piattaforma WebEx. Invierò l’invito all’indirizzo e-mail istituzionale e all'indirizzo email personale nel caso si fosse specificato (nell’ultimo campo del form) il verificarsi di problemi con la mail UNISANNIO (ed in questo caso suggerisco di segnalare la disfunzione al supporto tecnico UniSannio). Pertanto invito a verificare il corretto funzionamento della casella di posta istituzionale e/o personale e la corretta ricezione dei messaggi, pena l’impossibilità di seguire la lezione.
+
+Se è tutto chiaro e si portano a termine queste azioni, si riceverà il link per la videolezione che confermerà la corretta iscrizione. La videolezione si terrà tramite la piattaforma Webex relativamente alla quale l'Ateneo ha messo a disposizione le seguenti [istruzioni](https://www.unisannio.it/sites/default/files/sito/articoli/Guida%20WebEx%20studente%20Nuova.pdf?fbclid=IwAR2R2RPTormebFr6RrlCoUt0ootxkQWkfC_Y-xTLQdzaHRFg2Q3dqws4mTY).
+
+<!-- [Quaderno del corso](http://www.ing.unisannio.it/iannelli/_newsite/teaching/2014-CA/CA-2014-cpn) -->

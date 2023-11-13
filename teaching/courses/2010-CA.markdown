@@ -1,0 +1,27 @@
+---
+layout: name
+title: Controlli Automatici 2010/2011
+section: Teaching
+---
+
+Controlli Automatici
+====================
+
+Anno Accademico 2010/2011
+
+
+Informazioni generali
+----------------------
+
+Corso del II anno, II semestre, 6 CFU   
+Laurea in Ingegneria Informatica  
+
+### **Orario lezioni**  
+Lunedì ore 14-16 aula DING1  
+Mercoledì ore 16-18 aula A5    
+
+### **Orario ricevimento**  
+Giovedì ore 15-17 (studio docente)    
+Venerdì ore 15-17 (studio ing. Meola)    
+
+[Quaderno del corso](http://www.ing.unisannio.it/iannelli/_newsite/teaching/2010-CA/CA-2010-cpn)

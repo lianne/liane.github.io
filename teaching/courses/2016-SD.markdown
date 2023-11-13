@@ -1,0 +1,29 @@
+---
+layout: name
+title: Sistemi Discreti 2016/2017
+section: Teaching
+---
+
+Sistemi Discreti
+====================
+
+Anno Accademico 2016/2017
+
+
+Informazioni generali
+----------------------
+
+Corso del I anno, I semestre, 9 CFU  
+Laurea Magistrale in Ingegneria Informatica 
+
+Il corso è presente su [Piazza](http://piazza.com/unisannio.it/fall2016/sd), una interessante piattaforma accessibile anche da [smartphones e tablets](https://piazza.com/product/mobile). 
+
+### **Orario lezioni**  
+Martedì ore 9-11 aula G15  
+Mercoledì ore 9-11 aula G15   
+Venerdì ore 14-16 aula G15  
+
+### **Orario ricevimento**  
+Giovedì ore 11-13 (studio [docente](mailto: luigi.iannelli@unisannio.it)) (prenotarsi via e-mail) 
+
+<!-- [Quaderno del corso](http://www.ing.unisannio.it/iannelli/_newsite/teaching/2014-CA/CA-2014-cpn) -->

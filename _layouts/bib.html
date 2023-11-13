@@ -1,0 +1,41 @@
+---
+---
+{{ reference }}
+{% if entry.note %}
+<strong>{{ entry.note %}}.</strong>
+{% endif %}
+<br />
+<p>
+{ 
+{% if entry.pdf %}
+<a href="pdf/{{ entry.pdf %}}" target="_blank">PDF</a> |
+{% endif %}
+{% if entry.arXiv %}
+<a href="{{ entry.arXiv %}}">arXiv Preprint</a> |
+{% endif %}
+{% if entry.abstract %}
+<a href="">Abstract</a> |
+{% endif %}
+<a href="">BibTeX</a>  
+{% if entry.doi %}
+| <a href="http://dx.doi.org/{{ entry.doi %}}">DOI: {{ entry.doi %}}</a> 
+{% endif %}
+{% if entry.url %}
+| <a href="{{ entry.url %}}">URL</a> 
+{% endif %}
+}
+</p>
+{% if entry.abstract %}
+<div class="abstract" markdown="1">
+### Abstract
+{{ entry.abstract %}}
+</div>
+{% endif %}
+<div class="bibtex" markdown="1">
+### BibTeX
+~~~
+{{ entry.bibtex %}}
+~~~
+</div>
+
+

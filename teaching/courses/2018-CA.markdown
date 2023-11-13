@@ -1,0 +1,28 @@
+---
+layout: name
+title: Controlli Automatici 2018/2019
+section: Teaching
+---
+
+Controlli Automatici
+====================
+
+Anno Accademico 2018/2019
+
+
+Informazioni generali
+----------------------
+
+Corso del II anno, II semestre, 6 CFU  
+Laurea in Ingegneria Informatica e Laurea in Ingegneria Elettronica per l’Automazione e le Telecomunicazioni (corso mutuato) 
+
+Il corso è presente su [Piazza](http://piazza.com/unisannio.it/spring2019/ca), una interessante piattaforma accessibile anche da [smartphones e tablets](https://piazza.com/product/mobile). 
+
+### **Orario lezioni**  
+Giovedì ore 9-11 aula G12  
+Venerdì ore 9-11 aula G12  
+
+### **Orario ricevimento**  
+Giovedì ore 11-13 (studio [docente](mailto: luigi.iannelli@unisannio.it)) (prenotarsi via e-mail) 
+
+<!-- [Quaderno del corso](http://www.ing.unisannio.it/iannelli/_newsite/teaching/2014-CA/CA-2014-cpn) -->

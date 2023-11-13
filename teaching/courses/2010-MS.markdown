@@ -1,0 +1,25 @@
+---
+layout: name
+title: Modellistica e Simulazione 2010/2011
+section: Teaching
+---
+
+Modellistica e Simulazione
+====================
+
+Anno Accademico 2010/2011
+
+
+Informazioni generali
+----------------------
+
+Corso del III anno, II semestre, 4 CFU     
+Laurea in Ingegneria Informatica  
+
+### **Orario lezioni**    
+Lunedì ore 10-13 aula G11    
+
+### **Orario ricevimento**  
+Giovedì ore 15-17 (studio docente)    
+
+[Blog del corso](http://bn2010modsim.wordpress.com/)

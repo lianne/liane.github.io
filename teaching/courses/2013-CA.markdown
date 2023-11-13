@@ -1,0 +1,27 @@
+---
+layout: name
+title: Controlli Automatici 2013/2014
+section: Teaching
+---
+
+Controlli Automatici
+====================
+
+Anno Accademico 2013/2014
+
+
+Informazioni generali
+----------------------
+
+Corso del II anno, II semestre, 6 CFU  
+Laurea in Ingegneria Informatica e Laurea in Ingegneria Elettronica per l’Automazione e le Telecomunicazioni (corso mutuato)  
+
+### **Orario lezioni**  
+Lunedì ore 12-14 aula D1  
+Mercoledì ore 14-16 aula G12  
+
+### **Orario ricevimento**  
+Giovedì ore 11-13 (studio [docente](mailto: luigi.iannelli@unisannio.it))  
+Giovedì ore 15.30-17.30 (studio ing. [Angelone](mailto: gianluca.angelone@unisannio.it))  
+
+[Quaderno del corso](http://www.ing.unisannio.it/iannelli/_newsite/teaching/2013-CA/CA-2013-cpn)
