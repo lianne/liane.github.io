@@ -7,7 +7,7 @@
 name: Deploy Jekyll site to Pages
 
 on: 
-push
+#push
   # Runs on pushes targeting the default branch
   push
     branches: 
