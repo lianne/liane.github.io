@@ -26,7 +26,7 @@ keywords: research, automatic control, engineering
 Welcome
 =======
 
-Ciao I'm Luigi Iannelli, an associate professor of Automatic Control at the [University of Sannio][unisannio] in Benevento. Here you can find out more about me, the courses I teach at the [Department of Engineering][ding] and my research activities within GRACE, the Group for Research on Automatic Control Engineering. 
+I'm Luigi Iannelli, an associate professor of Automatic Control at the [University of Sannio][unisannio] in Benevento. Here you can find out more about me, the courses I teach at the [Department of Engineering][ding] and my research activities within GRACE, the Group for Research on Automatic Control Engineering. 
 
 <div class="section" markdown="1">
 
