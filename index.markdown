@@ -105,7 +105,5 @@ Contacting [@{{ site.author.twitter }}](http://twitter.com/{{ site.author.twitte
 
 
 
-
-
 [unisannio]: http://www.unisannio.it/
 [ding]: http://www.ding.unisannio.it/
