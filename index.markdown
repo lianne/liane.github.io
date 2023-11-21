@@ -100,11 +100,11 @@ I am available on the following *social networks*: click on the images for getti
 
 Contacting [@{{ site.author.twitter }}](http://twitter.com/{{ site.author.twitter }})... 
 
+<a class="twitter-timeline" data-height="500" data-theme="light" href="https://twitter.com/{{ site.author.twitter }}?ref_src=twsrc%5Etfw">Tweets by @{{ site.author.twitter }}</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<a class="twitter-timeline" href="https://twitter.com/{{ site.author.twitter }}" height="2em" data-widget-id="{{ site.author.twitid }}" data-chrome="nofooter noborders noheader noscrollbar transparent" data-tweet-limit="2" data-show-replies="false">Tweets by @{{ site.author.twitter }}</a>
- <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
-</div>
+
+
 
 
 [unisannio]: http://www.unisannio.it/
