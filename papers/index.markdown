@@ -47,6 +47,9 @@ Please see my [Google Scholar profile][scholar] for a full list of citations and
 
 <div class="section" id="journals" markdown="1">
 
+## 2022
+{% bibliography --file journals-ref --query @*[year=2022] %}
+
 ## 2021
 {% bibliography --file journals-ref --query @*[year=2021] %}
 
@@ -104,6 +107,12 @@ Please see my [Google Scholar profile][scholar] for a full list of citations and
 ## Conferences
 
 <div class="section" id="conferences" markdown="1">
+
+## 2023
+{% bibliography --file conferences-ref --query @*[year=2023] %}
+
+## 2022
+{% bibliography --file conferences-ref --query @*[year=2022] %}
 
 ## 2021
 {% bibliography --file conferences-ref --query @*[year=2021] %}
