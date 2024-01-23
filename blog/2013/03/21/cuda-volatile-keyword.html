@@ -89,13 +89,13 @@
 	
   <h1 class="emphnext">Importance of CUDA volatile keyword with shared memory</h1>
 
-<p>When coordinating information between threads in a warp via shared memory in CUDA, you might need to use the <code>volatile</code> keyword when declaring the shared memory array, as in <code>volatile __shared__ int array[SIZE]</code>.</p>
+<p>When coordinating information between threads in a warp via shared memory in CUDA, you might need to use the <code class="language-plaintext highlighter-rouge">volatile</code> keyword when declaring the shared memory array, as in <code class="language-plaintext highlighter-rouge">volatile __shared__ int array[SIZE]</code>.</p>
 
 <p>In particular, when one thread in the warp (I like to call it the “warp leader”) writes to a location in the shared memory that the rest of the warp threads (“warp workers”) need to read, I found that the volatile keyword is required so that all the workers see the written value.</p>
 
 <p>For example:</p>
 
-<pre><code>__shared__ array[NUM_WARPS];
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>__shared__ array[NUM_WARPS];
 if (threadIdx.x == 0) {
 	array[warpId] = 5;
 }
@@ -103,11 +103,11 @@ if (threadIdx.x == 0) {
 if (array[warpId] == 5) { 
 	do something
 }
-</code></pre>
+</code></pre></div></div>
 
 <p>In this example, I found that without declaring the shared memory array to be volatile, only the warp leader moves into the second conditional statement. Apparently, the CUDA compiler likes use registers in place of actually writing to shared memory. It can also be helpful in reducing register usage, see <a href="https://devtalk.nvidia.com/default/topic/405513/cuda-programming-and-performance/getting-nvcc-to-consolidate-registers/">this NVIDIA Developer forum thread</a>.</p>
 
-<p>I should note that this could be avoided by syncing all the threads in the block with <code>__syncthreads()</code>, but in my case I want only the warp workers to be synced—I don’t need the entire block.</p>
+<p>I should note that this could be avoided by syncing all the threads in the block with <code class="language-plaintext highlighter-rouge">__syncthreads()</code>, but in my case I want only the warp workers to be synced—I don’t need the entire block.</p>
 
 
   <address class="signature">
@@ -147,7 +147,8 @@ if (array[warpId] == 5) {
 <!-- <script type="text/javascript">
 	var disqus_iframe_css = "/files/css/screen.css";
 	var disqus_title = "Importance of CUDA volatile keyword with shared memory";
-	var disqus_message = "<p>When coordinating information between threads in a warp via shared memory in CUDA, you might need to use the <code>volatile</code> keyword when declaring the shared memory array, as in <code>volatile __shared__ int array[SIZE]</code>.</p>
+	var disqus_message = "<p>When coordinating information between threads in a warp via shared memory in CUDA, you might need to use the <code class="language-plaintext highlighter-rouge">volatile</code> keyword when declaring the shared memory array, as in <code class="language-plaintext highlighter-rouge">volatile __shared__ int array[SIZE]</code>.</p>
+
 ";
 </script> 
 -->
