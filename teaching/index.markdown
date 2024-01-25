@@ -18,10 +18,24 @@ Courses taught (most recent)
 
 <div class="section" markdown="1">
 
+## A.Y. 2023/2024
+
+[Automatic Control](courses/2023-CA-eng.html) (click [here](courses/2023-CA.html) for the Italian page) 
+
+[Dynamics and Control of Switched Electronic Systems](courses/2023-DYCOSES-eng.html)
+
+
+## A.Y. 2022/2023
+
+[Automatic Control](courses/2022-CA-eng.html) (click [here](courses/2022-CA.html) for the Italian page) 
+
+[Analysis and Control of Cyberphysical Systems](courses/2022-ACSC-eng.html) (click [here](courses/2022-ACSC.html) for the Italian page)
+
+<!--
 
 ## A.Y. 2020/2021
 
-<!-- [Automatic Control](courses/2020-CA-eng.html) (click [here](courses/2020-CA.html) for the Italian page) -->
+[Automatic Control](courses/2020-CA-eng.html) (click [here](courses/2020-CA.html) for the Italian page) 
 
 [Discrete Systems](courses/2020-SD-eng.html) (click [here](courses/2020-SD.html) for the Italian page)
 
@@ -44,7 +58,7 @@ Courses taught (most recent)
 
 [Discrete Systems](courses/2017-SD-eng.html) (click [here](courses/2017-SD.html) for the Italian page)
 
-<!--
+
 
 ## A.Y. 2016/2017
 
@@ -75,11 +89,13 @@ Automatic Control
 
 <!-- (courses/2012-CA-eng.html) (click [here](courses/2012-CA.html) for the Italian page) -->
 
+<!--
 ## A.Y. 2010/2011
 
 Modeling and Simulation (click [here](courses/2010-MS.html) for the Italian page)
 
 Automatic Control (click [here](courses/2010-CA.html) for the Italian page)
+-->
 
 </div>
 

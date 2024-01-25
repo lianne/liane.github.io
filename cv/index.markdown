@@ -10,13 +10,14 @@ Download the most recent version of my CV [here.]({{ site.urlbase }}/files/cv-ia
 Short biography
 ===============
 
-I was born in Benevento, Italy, in 1975. I got the "Laurea" degree in computer engineering from the University of Sannio in Benevento in 1999 and the PhD in information engineering from [University of Napoli Federico II][unina]{: rel="_blank"} in 2003. In 2002 I was visiting student at the [Royal Institute of Technology][kth]{: rel="_blank"} (KTH), in Stockholm, and in 2003 I was there as a guest researcher (I was the responsible of the Automatic Control Project course) working with [Prof. Karl Johansson][kalle]{: rel="_blank"}. 
+I was born in Benevento, Italy, in 1975. I got the "Laurea" degree in computer engineering from the University of Sannio in Benevento in 1999 and the PhD in information engineering from [University of Napoli Federico II][unina]{: rel="_blank"} in 2003. In 2002 I was visiting student at the [Royal Institute of Technology][kth]{: rel="_blank"} (KTH), in Stockholm, and in 2003 I was there as a guest researcher (I was the responsible of the Automatic Control Project course) working with [Prof. Karl Johansson][kalle]{: rel="_blank"}. In 2015 I spent some months as guest researcher at the [Univeristy of Groningen][rug]{: rel="_blank"} collaborating with [Prof. Kanat Camlibel][kanat]{: rel="_blank"}.
 Since December 2004 I work at the University of Sannio in Benevento, Italy, firstly as assistant professor and then (May 2016) as associate professor of automatic control.
 
 [kth]: http://www.kth.se
 [unina]: http://www.unina.it
 [kalle]: https://people.kth.se/~kallej/
-
+[rug]: https://www.rug.nl
+[kanat]: https://www.math.rug.nl/~kanat/
 
 Education
 =========
@@ -46,6 +47,7 @@ Publications
 Professional and scientific appointments
 ================
 
+- Full Professorship qualification obtained from the Italian Ministry of University and Research, October 2018
 - Associate Professorship qualification obtained from the Italian Ministry of University and Research, January 2014
 - IEEE Senior Membership obtained from Institute of Electrical and Electronics Engineers, March 2012
 - Qualification as Italian professional engineer obtained from the University of Napoli Federico II, Italy, February 2000
@@ -57,5 +59,8 @@ Professional Affiliations
 - Senior member, **Institute of Electrical and Electronic Engineers (IEEE)**
 	+ IEEE Control Systems Society Member
 	+ IEEE Circuits and Systems Society Member	
+
+<!--
 - Member, **Society for Industrial and Applied Mathematics (SIAM)**
+-->
 - Member, **Italian Society for Chaos and Complexity (SICC)**

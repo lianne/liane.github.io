@@ -1,0 +1,67 @@
+---
+layout: name
+title: Dynamics and Control of Switched Electronic Systems 2023/2024
+section: Teaching
+---
+
+Analisi e Controllo di Sistemi Cyberfisici
+====================
+
+Anno Accademico 2022/2023
+
+
+Informazioni generali
+----------------------
+
+Corso del I anno, I semestre, 9 CFU  
+Laurea Magistrale in Ingegneria Informatica 
+
+Il corso è presente su [Handy](https://handy.unisannio.it/course/view.php?id=535), la piattaforma di e-learning utilizzata dall'Università del Sannio. 
+
+### **Orario lezioni**  
+Lunedì ore 11-13   
+Martedì ore 14-16    
+Mercoledì ore 9-11   
+
+
+### **Orario ricevimento**  
+Mercoledì ore 11-13 (studio [docente](mailto: luigi.iannelli@unisannio.it)) (prenotarsi via e-mail) 
+
+<!-- [Quaderno del corso](http://www.ing.unisannio.it/iannelli/_newsite/teaching/2014-CA/CA-2014-cpn) -->
+
+Contenuti del corso
+--------------
+
+- Cyber-physical systems: an overview. 
+- Modeling, design and analysis of CPSs. 
+- Data analysis: linear regression. 
+- Numerical simulation: continuous time, discrete time and hybrid systems.
+- Discrete systems.
+- Finite State Machines.
+- Timed Automata.
+- Composition of FSM.
+- Synchronous reactive models.
+- Synchronous dataflow models.
+- Discrete event systems.
+
+Libri
+------
+
+Libro di testo:  
+- Edward A. Lee and Sanjit A. Seshia, **"Introduction to Embedded Systems, A Cyber-Physical Systems Approach"**, Second Edition, [PDF available](http://LeeSeshia.org), ISBN 978-1-312-42740-2, 2015.
+
+
+Obiettivi del corso
+----------------
+
+Introdurre gli studenti ai cyber-physical systems (CPS) dando una panormamica della loro complessità e proponendo metodologie finalizzate ad affrontare la modellizzazione, il progetto e l'analisi di tale ampia classe di sistemi. Verranno presentati esempi applicativi e piattaforme software per la simulazione.
+
+Modalità di erogazione del corso
+-----------------
+
+Lezioni frontali e laboratorio (Matlab/Simulink)
+
+Modalità di valutazione
+-------------------
+
+Progetto ed esame orale

@@ -1,0 +1,29 @@
+---
+layout: name
+title: Controlli Automatici 2023/2024
+section: Teaching
+---
+
+Controlli Automatici
+====================
+
+Anno Accademico 2023/2024
+
+
+Informazioni generali
+----------------------
+
+Corso del II anno, II semestre, 6 CFU  
+Laurea in Ingegneria Informatica e Laurea in Ingegneria Elettronica per l’Automazione e le Telecomunicazioni (corso mutuato) 
+
+Il corso è presente su [Handy](https://handy.unisannio.it/course/view.php?id=1278), la  piattaforma di e-learning utilizzata dall'Univeristà del Sannio. 
+
+### **Orario lezioni**  
+<!--
+Giovedì ore 9-11 aula G12  
+Venerdì ore 9-11 aula O4 
+-->
+
+### **Orario ricevimento**  
+Giovedì ore 11-13 (studio [docente](mailto: luigi.iannelli@unisannio.it)) (prenotarsi via e-mail) 
+

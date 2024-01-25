@@ -5,14 +5,15 @@ section: Info
 top: Luigi Iannelli
 ---
 
-<img class='inset right' src='{{ site.urlbase }}/images/famiglia2013.png' title='Family' alt="Photo of Luigi Iannelli's family" width='200px' />
+<img class='inset right' src='{{ site.urlbase }}/images/biciFortore.jpeg' title='cycling' alt="Cycling arounf Fortore hills" width='200px' />
 
 About Me
 ========
 
-In my free time, I enjoy cycling, dancing [tango argentino][bentango]{:rel="_blank"}, and going out with my wife and my two wonderful daughters.
+In my free time, I enjoy cycling (I love [randonnée][ari]{:rel="_blank"}), dancing [tango argentino][bentango]{:rel="_blank"} and watching movies.
 
 [smashrun]: http://smashrun.com/liannelli/
+[ari]: https://www.audaxitalia.it
 [bentango]: http://www.ballatango.it/Anagrafica.aspx/Professionista/2524 
 
 

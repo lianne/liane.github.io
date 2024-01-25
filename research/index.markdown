@@ -23,7 +23,7 @@ See my [publications]({{ site.urlbase }}/papers/) page for my journal and confer
 
 ## PhD supervision
 
-I am currently supervising **Alfonso Madera** who works on underwater robotics.
+I am currently co-supervising **Mahsa Ghavami** who works on game theory applied to electric vehicles charging.
 
 Please [contact me](mailto: luigi.iannelli@unisannio.it) if you are interested in working on a subject related to my research interests. 
 
@@ -37,16 +37,17 @@ Please [contact me](mailto: luigi.iannelli@unisannio.it) if you are interested i
 -->
 - **Giuseppe Silano**, 2020
 	Topic of the research: *"Software-in-the-loop methodologies for the analysis and control design of small UAV systems"*   
-	Now Giuseppe is a postdoc at Czech Technical University in Prague, Czech Republic   
+	Now Giuseppe is a researcher at Ricerca sul Sistema Energetico (RSE) S.p.A., Italy   
 - **Alessio Maffei**, 2016
-	Dissertation title: *"Optimization based distributed control for electrical networks"*   
+	Dissertation title: *"Optimization based distributed control for electrical networks"* 
+
 	Now Alessio works in Banca d'Italia, Italy
 - **Daniela Meola**, 2014
 	Dissertation title: *"Modeling and Optimization of Distribution Networks: a Smart Grid Approach"*   
 	Now Daniela works in General Motors Powertrain, Italy
 - **Valentina Sessa**, 2013  
 	Dissertation title: *"Periodic oscillations in piecewise linear Lur’e systems: a complementarity approach"*   
-	Now postdoctoral researcher at CMA - Mines ParisTech, France 
+	Now Associate Professor at CMA - Mines ParisTech, France 
 - **Carmen Pedicini**, 2013  
 	Dissertation title: *"Averaging techniques for switched systems"*  
 	Now Carmen works in PUNCH Torino, Italy
@@ -61,7 +62,7 @@ Please [contact me](mailto: luigi.iannelli@unisannio.it) if you are interested i
 	Now Roberto works in Hitachi Rail, Italy
 - **Maria Carmela De Gennaro**, 2006  
 	Dissertation title: *"Decentralized Formation Control for Multi-Agent Systems"*  
-	Now works in Magneti Marelli, Italy
+	Now in Magneti Marelli, Italy
 
 
 
