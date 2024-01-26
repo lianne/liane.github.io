@@ -7,7 +7,7 @@ keywords: research, automatic control, engineering
 
 
  
-<img class='inset right' src='images/iannelli2016.png' title='Luigi Iannelli' alt='Photo of Luigi Iannelli' width='120px' />
+<img class='inset right' src='images/iannelli2024.jpg' title='Luigi Iannelli' alt='Photo of Luigi Iannelli' width='120px' />
 
 
 <!--   Banner cookies
